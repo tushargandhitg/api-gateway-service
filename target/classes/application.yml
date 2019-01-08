@@ -2,3 +2,6 @@ zuul:
   routes:
     calculator:
       url: http://localhost:15990/calculator/
+      
+server:
+  port : 15690
